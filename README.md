@@ -1,2 +1,2 @@
 # Autoencoders
-Implement simple autoencoders, convolutional autoencoder for image denoising and colorization.
+Implementation of simple autoencoders, convolutional autoencoder for image denoising and colorization.
